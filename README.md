@@ -26,4 +26,3 @@ The implementation significantly reduced the time previously spent manually inpu
 
 This project demonstrates the effectiveness of web scraping techniques, particularly through the use of Python and Selenium, to streamline repetitive web-based tasks. The Python script developed for this purpose lays the groundwork for potential scalability and future enhancements.
 
-Feel free to contribute, provide feedback, or suggest improvements to this project.
